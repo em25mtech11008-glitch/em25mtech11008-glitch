@@ -1,563 +1,270 @@
+<!-- =========================================================
+  SETUP: find/replace  USERNAME  -> your GitHub username
+         find/replace  YOUR-LINKEDIN -> your LinkedIn slug
+  Put this file in a repo named exactly as your username.
+========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=PARTH%20VEKARIYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20MLOps%20%7C%20Data%20%26%20Automation&descSize=18&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Parth%20Vekariya&fontSize=58&fontColor=00f5d4&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Quant%20%C2%B7%20Founder%20Mindset&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<a href="https://github.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+AI+Systems+that+Actually+Work+%F0%9F%A4%96;Multi-Agent+AI+%7C+LangGraph+%7C+MCP+%7C+RAG;Computer+Vision+%7C+LLMs+%7C+MLOps;Power+BI+%7C+Data+Analytics+%7C+Automation;Turning+Ideas+into+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=M.Tech+Techno-Entrepreneurship+%40+IIT+Hyderabad;Building+multi-agent+AI+with+LangGraph+%2B+MCP;Fine-tuning+LLMs+with+QLoRA+%26+Unsloth;Automating+workflows+with+n8n;Turning+data+into+Power+BI+dashboards;Pairs+trading+on+NSE+with+Kalman+filters;Shipping+MLOps%3A+train+%E2%86%92+gate+%E2%86%92+deploy" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:em25mtech11008@iith.ac.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square"/>
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0f2027)
+![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
+![Stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
 
 </div>
 
 ---
 
-## 🧑‍💻 `whoami`
+## `> whoami`
 
 ```python
-class ParthVekariya:
+class Parth:
+    def __init__(self):
+        self.role      = "M.Tech Techno-Entrepreneurship @ IIT Hyderabad"
+        self.focus     = ["Multi-Agent AI", "LLM Fine-tuning", "MLOps", "Quant Finance"]
+        self.automates = ["n8n workflows", "Power BI dashboards", "RAG pipelines"]
+        self.previously = ["Software Intern @ Shreeji Software", "Data Analytics Intern @ IBM SkillsBuild"]
+        self.off_duty  = ["Farming & gardening", "Self-sufficient farmhouse dev", "Travel"]
 
-    role = "AI Engineer / Techno-Entrepreneur"
-
-    education = {
-        "M.Tech": "Techno-Entrepreneurship @ IIT Hyderabad",
-        "B.E.": "Information Technology @ L.D. College of Engineering"
-    }
-
-    interests = [
-        "Generative AI",
-        "Multi-Agent Systems",
-        "LLM Engineering",
-        "MLOps",
-        "Computer Vision",
-        "Data Analytics",
-        "AI Automation",
-        "Sustainable Technology"
-    ]
-
-    currently_building = [
-        "Production-grade AI agents",
-        "MCP-powered tool ecosystems",
-        "RAG systems",
-        "AI + workflow automation",
-        "Intelligent data products"
-    ]
-
-    philosophy = "Build → Measure → Automate → Iterate"
+    def now(self):
+        return "Building AI systems that ship, not just demo."
 ```
 
-> **I like building systems where AI doesn't just answer questions — it understands context, uses tools, takes structured actions, and fits into real workflows.**
+<table>
+<tr>
+<td>
+
+🔭 **Building** — Distributed GPU resource-sharing platform
+🧠 **Exploring** — Agentic workflows (LangGraph · MCP · n8n)
+📈 **Researching** — Sustainable GPU data-center optimization
+🌱 **Learning** — Production LLM serving & evals
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ What I Build
+## 🛠️ Tech Arsenal
 
-<div align="center">
+**Languages**
 
-|   🧠 AI Systems  | ⚙️ Engineering | 📊 Intelligence |    🤖 Automation    |
-| :--------------: | :------------: | :-------------: | :-----------------: |
-| LLM Applications |     FastAPI    |     Power BI    |         n8n         |
-|  Multi-Agent AI  |     Docker     |  Data Analytics |         MCP         |
-|        RAG       |    REST APIs   |   ML Pipelines  | Workflow Automation |
-|  Computer Vision |     MongoDB    |    Dashboards   |      AI Agents      |
-|   QLoRA / PEFT   |  Git / GitHub  |    Statistics   |  Human-in-the-Loop  |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
+**AI / LLM / Agents**
 
----
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-8A2BE2?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-QLoRA-blue?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-# 🧠 AI Engineering Stack
+**Automation & BI**
 
-### 🤖 Generative AI & Agents
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_·_DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QLoRA-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PEFT-10B981?style=for-the-badge"/>
-</p>
+**ML / Data Science**
 
-### 🧠 Machine Learning & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge"/>
-</p>
+**Backend, DevOps & MLOps**
 
-### 🛠️ Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+**Frontend (when needed)**
 
-### 📊 Data, BI & Automation
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
+**CS Foundations** — DSA · OOP · DBMS · Operating Systems · Computer Networks · Network Security · Statistics & Probability
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏢 AI Operations Command Center
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Multi-agent AI workforce for startup operations**
+### 🌾 [Crop Disease Advisor](https://github.com/USERNAME/crop-disease-advisor)
+End-to-end MLOps: leaf photo → 38-class diagnosis → structured, region-aware treatment plan.
 
-> A production-oriented AI operations platform where specialized agents collaborate through LangGraph and securely interact with enterprise data through MCP tools.
+- **EfficientNet-B4** vision model — **96.8% test acc**, 95.4% macro-F1
+- **Qwen2.5-3B QLoRA** advisor — **100% JSON validity & schema compliance**
+- W&B tracking, accuracy-gated model registry, HF Hub, Docker, Render
 
-### Architecture
+`PyTorch` `QLoRA` `FastAPI` `Vite` `W&B` `Docker`
 
-```text
-                         ┌──────────────────────┐
-                         │      React UI        │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │     FastAPI API      │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                    ┌──────────────────────────────┐
-                    │     AI COO / Supervisor      │
-                    └──────────────┬───────────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              ▼                    ▼                    ▼
-        Finance Agent        Sales Agent         HR Agent
-              │                    │                    │
-              └──────────────┬─────┴──────┬─────────────┘
-                             ▼            ▼
-                        MCP TOOL LAYER
-                             │
-                ┌────────────┼────────────┐
-                ▼            ▼            ▼
-             MongoDB       RAG       Action Engine
-                                             │
-                                             ▼
-                                      Human Approval
-```
+[🚀 Live Demo](https://crop-disease-advisor.onrender.com/) · [🤗 Space](https://huggingface.co/spaces/spidey1807/crop-disease-advisor)
 
-### Highlights
+</td>
+<td width="50%" valign="top">
 
-* 🤖 **9 AI agents**
-* 🔌 **14 MCP tools**
-* ⚡ **17 FastAPI endpoints**
-* 🗄️ **11+ MongoDB collections**
-* 📚 RAG-based company knowledge
-* 🔐 JWT + RBAC security
-* 🧑‍⚖️ Human-in-the-loop approvals
-* 🧠 LangGraph state orchestration
-* 📄 PDF knowledge ingestion
-* 🔄 Async MongoDB checkpointing
+### 🏢 [AI Operations Command Center](https://github.com/USERNAME/company-ai-assistant)
+Multi-agent "AI workforce" for startups: Finance, Sales, HR, Support, Ops, Knowledge.
 
-**Stack:** `FastAPI` `React` `TypeScript` `LangGraph` `MCP` `MongoDB` `RAG` `Gemini`
+- **9 agents** (1 supervisor + 8 specialists) on **LangGraph**
+- **14 MCP tools** · **17 REST endpoints** · **11+ Mongo collections**
+- RAG over PDFs, JWT + RBAC, human-in-the-loop approvals with audit log
 
----
+`LangGraph` `MCP` `FastAPI` `MongoDB` `React` `Gemini`
 
-## 🌾 Crop Disease Advisor
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**AI-powered plant disease diagnosis + precision treatment planning**
+### 🧠 [Llama 3.2 3B — "Thinking" Fine-tune](https://github.com/USERNAME/llama-3.2-3b-unsloth-thinking)
+Taught a 3B model stream-of-consciousness reasoning using **Unsloth + QLoRA** on R1-Distill-SFT.
 
-```text
-                📷 Leaf Image
-                     │
-                     ▼
-              EfficientNet-B4
-                     │
-                     ▼
-             Disease Prediction
-                     │
-              ┌──────┴──────┐
-              ▼             ▼
-          Disease DB      Qwen2.5
-              │             │
-              └──────┬──────┘
-                     ▼
-             Structured Advisory
-                     │
-        ┌────────────┼────────────┐
-        ▼            ▼            ▼
-     Organic      Chemical     Prevention
-     Treatment    Treatment       Plan
-```
+- 4-bit QLoRA, r=16 across attention + MLP layers
+- Exported to **GGUF (Q8_0)** and served locally with Ollama
 
-### Results
+`Unsloth` `TRL` `PEFT` `GGUF` `Ollama`
 
-| Component               |     Result |
-| ----------------------- | ---------: |
-| 🌱 Vision Test Accuracy |  **96.8%** |
-| 🎯 Macro F1             |  **95.4%** |
-| 📈 AUC                  |  **97.1%** |
-| 🧠 JSON Validity        |   **100%** |
-| 📋 Schema Compliance    |   **100%** |
-| 📝 BERTScore F1         | **81.68%** |
-| 🔥 Perplexity           |   **1.42** |
-
-### Stack
-
-`EfficientNet-B4` `PyTorch` `Qwen2.5-3B` `QLoRA` `FastAPI` `HuggingFace` `W&B` `Docker`
-
-🔗 **[Live Demo](https://crop-disease-advisor.onrender.com/)**
-🔗 **[HuggingFace Space](https://huggingface.co/spaces/spidey1807/crop-disease-advisor)**
-
----
-
-## 🧠 Llama 3.2 3B — QLoRA Fine-Tuning
-
-**Teaching an LLM structured reasoning behavior**
-
-```text
-R1-Distill-SFT
-      │
-      ▼
-Prompt Formatting
-      │
-      ▼
-4-bit Quantization
-      │
-      ▼
-QLoRA / LoRA
-      │
-      ▼
-Llama 3.2 3B
-      │
-      ▼
-Structured Reasoning
-      │
-      ▼
-GGUF Export
-      │
-      ▼
-Local / Ollama Inference
-```
-
-### Configuration
-
-```yaml
-Base Model:       Llama-3.2-3B-Instruct
-Dataset:          R1-Distill-SFT
-LoRA Rank:        16
-LoRA Alpha:       16
-Quantization:     4-bit
-Optimizer:        AdamW 8-bit
-Learning Rate:    2e-4
-Gradient Accum:   4
-Training Steps:   60
-Export:           GGUF Q8_0
-```
-
-**Stack:** `Unsloth` `Transformers` `TRL` `PEFT` `QLoRA` `PyTorch` `Ollama`
-
----
-
-# 📊 Data & Quantitative Projects
-
-### 🎓 Student Performance Prediction
-
-End-to-end ML pipeline predicting student mathematics performance from demographic and academic features.
-
-`Scikit-learn` `CatBoost` `XGBoost` `Flask`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📈 Indian Statistical Arbitrage Engine
+Pairs-trading system on live **NSE / NIFTY 500** data.
 
-Quantitative trading research using Indian market data, pairs trading and cointegration.
+- Cointegration, **Kalman-filter hedge ratios**, adaptive Z-score signals
+- Beta-neutral sizing, Indian transaction costs, next-day execution (no lookahead)
+- Validated via **walk-forward out-of-sample** testing
 
-```text
-NSE / NIFTY 500
-      ↓
-Cointegration
-      ↓
-Kalman Filter
-      ↓
-Adaptive Z-Score
-      ↓
-Beta-Neutral Position
-      ↓
-Transaction Costs
-      ↓
-Walk-Forward Validation
-```
+`Python` `Statsmodels` `Pandas` `Quant`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Sustainable GPU Data Center Optimization
+Optimization models for GPU data-center **site selection & scheduling**.
 
-Optimization models for GPU data-center site selection and scheduling with focus on:
+- Integer programming + **Nash bargaining** for cost, renewable energy, and resource allocation
 
-* Cost optimization
-* Renewable energy utilization
-* Resource allocation
-* Integer programming
-* Nash bargaining
+`MILP` `Optimization` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Distributed GPU Resource Sharing Platform
+Secure marketplace for underutilized GPUs so researchers, startups, and small teams can access affordable AI compute.
+
+`In progress` `Distributed Systems` `AI Infra`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📊 More: Student Performance Prediction · Power BI dashboards</b></summary>
+<br/>
+
+- **Student Performance Prediction** — end-to-end ML pipeline (Scikit-learn, CatBoost, XGBoost) deployed as a Flask app for real-time predictions.
+- **Sales & Profitability Dashboards** — interactive Power BI reports with DAX built during the IBM SkillsBuild internship.
+
+</details>
 
 ---
 
-### 🖥️ Distributed GPU Resource Sharing
+## 🤖 Automation & BI Stack
 
-Currently developing a platform for sharing underutilized GPU resources with researchers, startups and small businesses.
-
-**Goal:** make AI compute more accessible without requiring every organization to own expensive infrastructure.
-
----
-
-# 🔄 AI Automation Lab
-
-I'm particularly interested in combining **AI agents + APIs + n8n + MCP + business data**.
-
-```text
-                    ┌──────────────┐
-                    │    Trigger   │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │     n8n      │
-                    │ Orchestrator │
-                    └──────┬───────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-           AI Agent      MCP Tool     API
-              │            │            │
-              └────────────┼────────────┘
-                           ▼
-                    ┌──────────────┐
-                    │  Enterprise  │
-                    │     Data     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │ Power BI /   │
-                    │ Dashboard    │
-                    └──────────────┘
+```mermaid
+flowchart LR
+    A[Trigger: Webhook / Schedule / Email] --> B[n8n Workflow]
+    B --> C{LLM / Agent Step}
+    C -->|RAG| D[(Vector Store)]
+    C -->|Tools via MCP| E[(MongoDB / APIs)]
+    B --> F[Cleaned Data]
+    F --> G[Power BI Dashboard]
+    G --> H[Insights → Decisions]
 ```
 
-### Automation interests
-
-`n8n` · `MCP` · `LangGraph` · `FastAPI` · `Power BI` · `MongoDB` · `RAG` · `LLM APIs`
-
----
-
-# 🧰 My Engineering Toolbox
-
-```text
-Languages
-├── Python
-├── C++
-└── SQL
-
-AI / ML
-├── PyTorch
-├── Scikit-learn
-├── XGBoost
-├── CatBoost
-├── Computer Vision
-└── Statistical Modeling
-
-GenAI
-├── LangGraph
-├── LangChain
-├── RAG
-├── MCP
-├── QLoRA
-├── PEFT
-├── Gemini
-└── LLM Applications
-
-Data
-├── NumPy
-├── Pandas
-├── Matplotlib
-├── Power BI
-└── DAX
-
-Backend
-├── FastAPI
-├── Flask
-├── REST APIs
-└── MongoDB
-
-MLOps / DevOps
-├── Docker
-├── MLflow
-├── Weights & Biases
-├── HuggingFace
-└── GitHub
-
-Automation
-├── n8n
-├── AI Workflows
-├── API Automation
-└── Human-in-the-Loop Systems
-```
+- **n8n** — event-driven automations, LLM-in-the-loop workflows, API/webhook orchestration
+- **Power BI** — data modeling, DAX measures, sales & profitability dashboards
 
 ---
 
-# 🧪 Engineering Principles
-
-```python
-PRINCIPLES = [
-    "Build for real users",
-    "Keep AI systems observable",
-    "Prefer structured outputs",
-    "Give agents the right tools",
-    "Human approval for high-stakes actions",
-    "Automate repetitive workflows",
-    "Measure before optimizing",
-    "Ship → monitor → improve"
-]
-```
-
----
-
-# 🎓 Education
-
-### IIT Hyderabad
-
-**M.Tech — Techno-Entrepreneurship**
-2025–2027 · CGPA **8.15**
-
-### L.D. College of Engineering
-
-**B.E. — Information Technology**
-2021–2025 · CGPA **8.46**
-
-Relevant areas:
-
-`Data Structures` · `DBMS` · `Operating Systems` · `Computer Networks` · `Network Security` · `Machine Learning` · `Strategy` · `Operations` · `Financial Planning`
-
----
-
-# 💼 Experience
-
-### Shreeji Software — Software Intern
-
-**Feb 2025 – May 2025 · Ahmedabad**
-
-* Translated client requirements into technical solutions.
-* Designed database schemas for a fintech-based solar investment platform.
-* Supported solar subscription, energy generation and investor revenue workflows.
-
-### CSRBOX × IBM SkillsBuild — Data Analytics Intern
-
-**Jun 2024 – Jul 2024 · Remote**
-
-* Analyzed sales data using Excel and Power BI.
-* Performed data cleaning, preprocessing and modeling.
-* Built interactive Power BI dashboards using DAX.
-
----
-
-# 🏆 Leadership & Innovation
-
-**MSME Tech Connect 2026 — Head of Visitor & Exhibitor Relations**
-
-Led IIT/NIT outreach, exhibitor coordination, technology showcases and visitor participation.
-
-Also participated in:
-
-* 🇯🇵 Tongali Entrepreneurship Program
-* 🎓 Kyoto University Student Immersion Program
-* 🌱 Sustainable technology & entrepreneurship initiatives
-
----
-
-# 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&count_private=true" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&langs_count=8" alt="top langs"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="streak"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="activity graph"/>
 
 </div>
 
----
-
-# 🐍 Contribution Graph
-
+<!-- Optional: contribution snake. Add snake.yml to .github/workflows/ then uncomment.
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+  </picture>
 </div>
+-->
 
 ---
 
-# 📡 Current Mission
+## 🎓 Education & Experience
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   Building intelligent systems at the intersection  │
-│                                                     │
-│       AI × Agents × Data × Automation × Business   │
-│                                                     │
-│   From → Prototype                                  │
-│   To   → Production                                 │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-### Currently exploring
-
-`Agentic AI` · `MCP` · `Multi-Agent Architecture` · `AI Automation` · `n8n` · `RAG` · `LLM Fine-Tuning` · `MLOps` · `Power BI`
+| | |
+|---|---|
+| 🎓 **M.Tech, Techno-Entrepreneurship** | IIT Hyderabad · 2027 |
+| 🎓 **B.E., Information Technology** | L.D. College of Engineering · 2025 |
+| 💼 **Software Intern** | Shreeji Software · Feb–May 2025 — DB schemas & data models for a fintech solar-investment platform |
+| 💼 **Data Analytics Intern** | CSRBOX – IBM SkillsBuild · Jun–Jul 2024 — Power BI + DAX dashboards |
+| 🤝 **Head, Visitor & Exhibitor Relations** | MSME Tech Connect 2026 — led IIT/NIT outreach |
+| 🌏 **Programs** | Tongali Entrepreneurship Program · Kyoto University Student Immersion Program |
 
 ---
 
-# 🌱 Beyond Code
-
-When I'm not building AI systems:
-
-🌾 **Farming & Gardening**
-🌍 **Travel & Exploration**
-🏡 **Sustainable Living**
-🚀 **Entrepreneurship & Technology Commercialization**
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-### ⚡ Build intelligent. Automate relentlessly. Create impact.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:em25mtech11008@iith.ac.in)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spidey1807)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=8892B0&center=true&vCenter=true&width=620&lines=%22Make+it+work.+Make+it+right.+Make+it+deploy.%22;Open+to+AI%2FML+%26+backend+internships+and+collabs" alt="footer typing"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
