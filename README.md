@@ -1,7 +1,7 @@
 <!-- =========================================================
-  SETUP: find/replace  USERNAME  -> your GitHub username
+  SETUP: find/replace  em25mtech11008-glitch  -> your GitHub em25mtech11008-glitch
          find/replace  YOUR-LINKEDIN -> your LinkedIn slug
-  Put this file in a repo named exactly as your username.
+  Put this file in a repo named exactly as your em25mtech11008-glitch.
 ========================================================= -->
 
 <div align="center">
@@ -14,9 +14,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0f2027)
-![Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
-![Stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
+![Profile Views](https://komarev.com/ghpvc/?em25mtech11008-glitch=em25mtech11008-glitch&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0f2027)
+![Followers](https://img.shields.io/github/followers/em25mtech11008-glitch?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
+![Stars](https://img.shields.io/github/stars/em25mtech11008-glitch?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
 
 </div>
 
@@ -115,7 +115,7 @@ class Parth:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [Crop Disease Advisor](https://github.com/USERNAME/crop-disease-advisor)
+### 🌾 [Crop Disease Advisor](https://github.com/em25mtech11008-glitch/crop-disease-advisor)
 End-to-end MLOps: leaf photo → 38-class diagnosis → structured, region-aware treatment plan.
 
 - **EfficientNet-B4** vision model — **96.8% test acc**, 95.4% macro-F1
@@ -129,7 +129,7 @@ End-to-end MLOps: leaf photo → 38-class diagnosis → structured, region-aware
 </td>
 <td width="50%" valign="top">
 
-### 🏢 [AI Operations Command Center](https://github.com/USERNAME/company-ai-assistant)
+### 🏢 [AI Operations Command Center](https://github.com/em25mtech11008-glitch/company-ai-assistant)
 Multi-agent "AI workforce" for startups: Finance, Sales, HR, Support, Ops, Knowledge.
 
 - **9 agents** (1 supervisor + 8 specialists) on **LangGraph**
@@ -143,7 +143,7 @@ Multi-agent "AI workforce" for startups: Finance, Sales, HR, Support, Ops, Knowl
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Llama 3.2 3B — "Thinking" Fine-tune](https://github.com/USERNAME/llama-3.2-3b-unsloth-thinking)
+### 🧠 [Llama 3.2 3B — "Thinking" Fine-tune](https://github.com/em25mtech11008-glitch/llama-3.2-3b-unsloth-thinking)
 Taught a 3B model stream-of-consciousness reasoning using **Unsloth + QLoRA** on R1-Distill-SFT.
 
 - 4-bit QLoRA, r=16 across attention + MLP layers
@@ -220,20 +220,20 @@ flowchart LR
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&count_private=true" alt="stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&langs_count=8" alt="top langs"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?em25mtech11008-glitch=em25mtech11008-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&count_private=true" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?em25mtech11008-glitch=em25mtech11008-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&langs_count=8" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=em25mtech11008-glitch&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?em25mtech11008-glitch=em25mtech11008-glitch&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="activity graph"/>
 
 </div>
 
 <!-- Optional: contribution snake. Add snake.yml to .github/workflows/ then uncomment.
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/em25mtech11008-glitch/em25mtech11008-glitch/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/em25mtech11008-glitch/em25mtech11008-glitch/output/github-snake.svg" />
   </picture>
 </div>
 -->
