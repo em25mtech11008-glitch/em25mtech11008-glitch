@@ -1,7 +1,7 @@
 <!-- =========================================================
-  SETUP: find/replace  em25mtech11008-glitch  -> your GitHub em25mtech11008-glitch
+  SETUP: find/replace  em25mtech11008-glitch  -> your GitHub username
          find/replace  YOUR-LINKEDIN -> your LinkedIn slug
-  Put this file in a repo named exactly as your em25mtech11008-glitch.
+  Put this file in a repo named exactly as your username.
 ========================================================= -->
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?em25mtech11008-glitch=em25mtech11008-glitch&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0f2027)
+![Profile Views](https://komarev.com/ghpvc/?username=em25mtech11008-glitch&label=PROFILE+VIEWS&color=00f5d4&style=for-the-badge&labelColor=0f2027)
 ![Followers](https://img.shields.io/github/followers/em25mtech11008-glitch?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
 ![Stars](https://img.shields.io/github/stars/em25mtech11008-glitch?style=for-the-badge&logo=github&color=00f5d4&labelColor=0f2027)
 
@@ -220,12 +220,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?em25mtech11008-glitch=em25mtech11008-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&count_private=true" alt="stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?em25mtech11008-glitch=em25mtech11008-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&langs_count=8" alt="top langs"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=em25mtech11008-glitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&icon_color=00f5d4&count_private=true" alt="stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=em25mtech11008-glitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00f5d4&langs_count=8" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com/?user=em25mtech11008-glitch&theme=tokyonight&hide_border=true&background=0f2027&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?em25mtech11008-glitch=em25mtech11008-glitch&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=em25mtech11008-glitch&bg_color=0f2027&color=00f5d4&line=00f5d4&point=ffffff&area=true&area_color=00f5d4&hide_border=true" alt="activity graph"/>
 
 </div>
 
