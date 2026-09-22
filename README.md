@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://huggingface.co/spidey1807">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src=""/>
 </a>
 
 </div>
